@@ -34,7 +34,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:daddalanaidu/devops-infrastructure.git</connection>
 		<developerConnection>scm:git:git@github.com:daddalanaidu/devops-infrastructure.git</developerConnection>
-		<url>git@github.com:krishnamurthypradeep/devops-infrastructure.git</url>
+		<url>git@github.com:daddalanaidu/devops-infrastructure.git</url>
 		<tag>v0.0.1</tag>
 	</scm>
 	
